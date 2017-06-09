@@ -1,0 +1,26 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing these this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: Engedi 2.0
+email: info@astraldynamics.co.uk
+description: In 1858 the first conversation is Wales took place in this Chapel about establishing a Welsh speaking colony in Patagonia, which is known today as ‘Y Wladfa’. The industrial era was putting pressure on life in Wales then as it is putting on our entire planet today. Engedi 2.0 is setting sail for a new promised land. One where our families will still live in thousands of year. With, by, and for our sustainable community."
+baseurl: "/engedi2" # the subpath of your site, e.g. /blog
+url: "https://engedi2.org" # the base hostname & protocol for your site
+github_username:    jekyll
+instagram_username: jekyllrb
+twitter_username:   jekyllrb
+
+# Build settings
+markdown: kramdown

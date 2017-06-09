@@ -1,0 +1,64 @@
+---
+layout: post
+title:  "Engedi 2.0"
+date:   2017-06-09 12:11:11 +0100
+---
+
+
+ 
+<figure>
+	<img src="{{ site.baseurl }}/assets/Engedi-emblem.jpg" alt="image" width="50%" align="center">
+	<figcaption>
+		Ein capel i'r ganrif nesaf - Our chapel for the 21st Century. 
+	</figcaption>
+</figure>
+
+<h1>Gyda ac er mwyn cynefin cynaliadwy.</h1>
+
+**Ym 1858 yn y capel hwn, cynhalwyd y sgwrs gyntaf ynglyn a sefydlu gwladfa Gymreig ym Mhatagonia. Roedd yr oes ddiwydianol yn creu straen ar fywydau yng Nghymru, yn bur gyffelyb i’r straen mae’n osod ar ein daear heddiw. Mae Engedi 2.0 yn codi hwyliau tua gwlad yr addewid ble caiff ein teuluoedd fyw mewn miloedd o flynyddoedd.**
+
+<h1>With, by, and for our sustainable community.</h1>
+In 1858 the first conversation is Wales took place in this Chapel about establishing a Welsh speaking colony in Patagonia, which is known today as ‘Y Wladfa’. The industrial era was putting pressure on life in Wales then as it is putting on our entire planet today. Engedi 2.0 is setting sail for a new promised land. One where our families will still live in thousands of year. 
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/EbcWZg5FPBo" frameborder="0" allowfullscreen></iframe>
+ 
+<h1>Byddwn yn / We will:</h1>
+
+<ul>
+<li><strong> Gweithio gyda brodorion Caernarfon i sefydlu’r dref yng nghanol economi byd-eang gynaladwy.
+Cyflymu datblygiad cwmniau technolegol newydd a chefnogi arloeswyr ein hardal.</strong></li>
+
+<li>Work with the town’s people of Caernarfon to place the town at the centre of a world leading sustainable economy. </li>
+<br>
+<li><strong>Cyflymu datblygiad cwmniau technolegol newydd a chefnogi arloeswyr ein hardal.</li></strong>
+<li>Accelerate technology start ups and support Innovators in the region.</li> 
+<br>
+<li><strong>Meithrin diwylliant o rannu gwybodaeth mewn cymunedau lleol a thraws y rhanbarth.</li></strong>
+
+<li>Nurture a culture of Knowledge sharing in the local communities </li>
+<br>
+<li><strong>Prosiect celfyddydol ei naws sydd yn dathlu iaith a diwylliant un o genhedloedd cynhenid hynaf Ewrop a’i hanes hir o wydnwch.</li></strong>
+<li>Be an arts lead project, celebrating the language and culture of this region that is amongst the oldest indigenous cultures in Europe and has a long history of resilience. 
+</li>
+</ul>
+
+<figure>
+	<img src="{{ site.baseurl }}/assets/engilidd.jpg" alt="image" width="100%" align="center">
+	<figcaption>
+		Ein capel i'r ganrif nesaf - Our chapel for the 21st Century. 
+	</figcaption>
+</figure>
+
+<strong>Rydym wedi goroesi’r 2000 o flynyddoedd diwethaf, a thrwy gryfder calon gweithiwn i sicrhau y bydd ein rhywogaeth yma o hyd ymhen 1000 blwyddyn i ddod.</strong>
+ 
+<br><br>
+We have survived the last 2000 years, through strength of heart alone if needed we will work to ensure our species is still here in another 1000.  
+
+<br><br><br>
+ 
+<strong>I dderbyn gwybodaeth ynglyn a’r prosiect, rhannwch eich e-bost uchod neu cysylltwch ag Branwen ein cymhorthydd deallusrwydd ffug.</strong>
+<br><br>
+To stay informed about this project. Please have a word with our A.I assistant 
+
+
+
