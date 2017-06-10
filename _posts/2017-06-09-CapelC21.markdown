@@ -7,10 +7,12 @@ date:   2017-06-09 12:11:11 +0100
 
  
 <figure>
+<center>
 	<img src="{{ site.baseurl }}/assets/Engedi-emblem.jpg" alt="image" width="50%" align="center">
 	<figcaption>
 		Ein capel i'r ganrif nesaf - Our chapel for the 21st Century. 
 	</figcaption>
+	</center>
 </figure>
 
 <h1>Gyda ac er mwyn cynefin cynaliadwy.</h1>
@@ -20,8 +22,9 @@ date:   2017-06-09 12:11:11 +0100
 <h1>With, by, and for our sustainable community.</h1>
 In 1858 the first conversation is Wales took place in this Chapel about establishing a Welsh speaking colony in Patagonia, which is known today as ‘Y Wladfa’. The industrial era was putting pressure on life in Wales then as it is putting on our entire planet today. Engedi 2.0 is setting sail for a new promised land. One where our families will still live in thousands of year. 
 
+<center>
 <iframe width="420" height="315" src="http://bit.ly/2s8EG19" frameborder="0" allowfullscreen></iframe>
- 
+</center>
 <h1>Byddwn yn / We will:</h1>
 
 <ul>
